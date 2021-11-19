@@ -7,17 +7,20 @@ h1{
 	position: absolute;
 	top: 0px;
 	left: 28px;
+  line-height: 94px;
 
 }
 
 p {
 	font-family: Helvetica Neue;
-	font-size: 23.5px;
+	font-size: 27px;
 	color: rgb(255, 255, 255);
 	font-weight: bolder;
 	position: absolute;
-	top: 10px;
+	top: 3px;
 	left: 28px;
+
+
 }
 
 .highlight {
@@ -35,11 +38,11 @@ p {
 
 h2 {
 	font-family: Helvetica Neue;
-	font-size: 23.5px;
+	font-size: 27.2px;
 	color: rgb(255, 255, 255);
 	font-weight: regular;
 	position: absolute;
-	top: 262px;
+	top: 232px;
 	left: 35px;
 
  }
@@ -105,7 +108,7 @@ h2 {
 
 .box4 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 0px;
@@ -123,7 +126,7 @@ h2 {
 
 .box5 {
 	width: 110px;
-  height: 60px;
+  height: 62px;
   position: absolute;
   top: 690px;
   left: 110px;
@@ -140,7 +143,7 @@ h2 {
 
 .box6 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 110px;
@@ -210,7 +213,7 @@ h2 {
 
 .box10 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 220px;
@@ -229,7 +232,7 @@ h2 {
 
 .box11 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 330px;
@@ -248,7 +251,7 @@ h2 {
 
 .box12 {
   width: 110px;
-  height: 60px;
+  height: 65px;
   position: absolute;
   top: 690px;
   left: 440px;
@@ -268,7 +271,7 @@ h2 {
 
 .box13 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 550px;
@@ -359,7 +362,7 @@ h2 {
 
 .box18 {
 		width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 659px;
@@ -464,7 +467,7 @@ h2 {
 
 .box24 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 769px;
@@ -511,7 +514,7 @@ h2 {
 }
 .box27 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 879px;
@@ -540,7 +543,7 @@ h2 {
 }
 .box29 {
 	width: 110px;
-  height: 60px;
+  height: 64px;
   position: absolute;
   top: 690px;
   left: 989px;
@@ -554,7 +557,7 @@ h2 {
 }
 .box30 {
 		width: 110px;
-  height: 60px;
+  height: 65px;
   position: absolute;
   top: 690px;
   left: 1099px;
@@ -570,7 +573,7 @@ h2 {
 
 .box31 {
 	width: 110px;
-  height: 60px;
+  height: 65px;
   position: absolute;
   top: 690px;
   left: 1209px;
@@ -601,7 +604,7 @@ h2 {
 }
 .box33 {
 	width: 70px;
-  height: 60px;
+  height: 65px;
   position: absolute;
   top: 690px;
   left: 1319px;
@@ -619,18 +622,25 @@ h2 {
 	h1{
 		font-size: 50vw;
 		width: 140vh;
+    top: 234px;
+  left: 65px;
+  line-height: 190px;
+
 	}
 
 	p{
 		font-size: 15vw;
 		width: 800vh;
+     top: 220px;
+  left: 65px;
 
 	}
 
 	h2{
 		font-size: 15vw;
 		width: 800vh;
-		top: 560px;
+		top: 710px;
+    left: 65px;
 
 	}
 
@@ -638,7 +648,7 @@ h2 {
     font-size: 19vw;
     width: 80vh;
     line-height: 24vw;
-    left: 85px;
+    left: 65px;
     top: 1890px;
 
 
