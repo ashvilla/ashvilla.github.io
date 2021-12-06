@@ -36,7 +36,7 @@ h1 {
 	position: absolute;
 	top: 109px;
 	left: 40px;
-	width: 35vw;
+	width: 39vw;
 }
 
 .dogimg {
@@ -432,4 +432,345 @@ h2 {
 .joke8:hover {
 	opacity: 1;
 
+}
+
+.pol17 {
+	position: absolute;
+	top: 220px;
+	left: 40px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke9 {
+	position: absolute;
+	top: 244px;
+	left: 57px;
+	width: 17.5vw;
+	opacity: 0;
+	z-index: 2;
+}
+
+.joke9:hover {
+	opacity: 1;
+}
+
+
+.pol18 {
+	position: absolute;
+	top: 220px;
+	left: 380px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog1 {
+	position: absolute;
+	top: 247px;
+	left: 397px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+.dog1:hover {
+	opacity: 1;
+}
+.pol19 {
+	position: absolute;
+	top: 220px;
+	left: 729px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke10 {
+	position: absolute;
+	top: 244px;
+	left: 745px;
+	width: 17.5vw;
+	opacity: 0;
+	z-index: 2;
+}
+.joke10:hover {
+	opacity: 1;
+}
+
+.pol20 {
+	position: absolute;
+	top: 220px;
+	left: 1075px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog2 {
+	position: absolute;
+	top: 244px;
+	left: 1090.5px;
+	width: 17.5vw;
+	opacity: 0;
+	z-index: 2;
+}
+
+.dog2:hover {
+	opacity: 1;
+}
+
+.pol21 {
+	position: absolute;
+	top: 650px;
+	left: 40px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog3 {
+	position: absolute;
+	top: 675px;
+	left: 59px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+.dog3:hover {
+	opacity: 1;
+}
+
+.joke11 {
+	position: absolute;
+	top: 675px;
+	left: 397px;
+	width: 18vw;
+	z-index: 2;
+	opacity: 0;
+}
+.joke11:hover {
+	opacity: 1;
+}
+
+.pol22 {
+	position: absolute;
+	top: 650px;
+	left: 380px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.pol23 {
+	position: absolute;
+	top: 650px;
+	left: 729px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog4 {
+	position: absolute;
+	top: 675px;
+	left: 745px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+.dog4:hover {
+	opacity: 1;
+}
+
+.pol24 {
+	position: absolute;
+	top: 650px;
+	left: 1075px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke12 {
+	position: absolute;
+	top: 674px;
+	left: 1090px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+.joke12:hover {
+	opacity: 1;
+}
+.pol25 {
+	position: absolute;
+	top: 1080px;
+	left: 40px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke13 {
+	position: absolute;
+	top: 1104px;
+	left: 57px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+
+.joke13:hover {
+	opacity: 1;
+}
+
+.pol26 {
+	position: absolute;
+	top: 1080px;
+	left: 380px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog5 {
+	position: absolute;
+	top: 1105px;
+	left: 395.5px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+.dog5:hover {
+	opacity: 1;
+}
+
+.pol27 {
+	position: absolute;
+	top: 1080px;
+	left: 729px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke14 {
+	position: absolute;
+	top: 1105px;
+	left: 747px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+	
+}
+
+.joke14:hover {
+	opacity: 1;
+}
+
+.pol28 {
+	position: absolute;
+	top: 1080px;
+	left: 1075px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog6 {
+	position: absolute;
+	top: 1105px;
+	left: 1090.9px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+
+.dog6:hover {
+	opacity: 1;
+}
+
+.pol29 {
+	position: absolute;
+	top: 1512px;
+	left: 38px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog7 {
+	position: absolute;
+	top: 1537px;
+	left: 55px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+
+.dog7:hover {
+	opacity: 1;
+}
+
+.pol30 {
+	position: absolute;
+	top: 1512px;
+	left: 380px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke15 {
+	position: absolute;
+	top: 1537px;
+	left: 397px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+
+}
+
+.joke15:hover {
+	opacity: 1;
+}
+	
+
+.pol31 {
+	position: absolute;
+	top: 1512px;
+	left: 729px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.dog8 {
+	position: absolute;
+	top: 1537px;
+	left: 744px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+}
+
+.dog8:hover {
+	opacity: 1;
+}
+
+.pol32 {
+	position: absolute;
+	top: 1512px;
+	left: 1075px;
+	width: 20vw;
+	z-index: 1;
+}
+
+.joke16 {
+	position: absolute;
+	top: 1535px;
+	left: 1090px;
+	width: 17.5vw;
+	z-index: 2;
+	opacity: 0;
+
+}
+
+.joke16:hover {
+	opacity: 1;
+}
+
+
+.missionimg {
+	position: absolute;
+	top: 150px;
+	left: 320px;
+	width: 50vw;
+	z-index: 2;
 }
