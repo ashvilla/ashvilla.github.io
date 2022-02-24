@@ -11,11 +11,33 @@ body{
   left: 70px;
 
 }
+
+.title.alarm {
+  opacity: 0%;
+}
+
+.over {
+  transform: scale(0.9);
+  position: absolute;
+  top: 5px;
+  left: 445px;
+  opacity: 0%;
+}
+
+.over.alarm {
+  opacity: 100%;
+}
+
 .button {
   transform: scale(0.2);
    position: absolute;
-   top: 552px;
+   top: 548px;
    left: 250px;
+   opacity: 0%;
+}
+
+.button.alarm {
+  opacity: 100%;
 }
 
 
@@ -24,6 +46,7 @@ body{
   transform: scale(0.8);
   left: 130px;
   top: 70px;
+
 
 }
 
@@ -467,48 +490,45 @@ body{
 }
 
 
-.slow {
-  transform: scale(0.2);
+
+.ghost1 {
+  position: absolute;
+  transform: scale(0.5);
   width: 150px;
   height: 150px;
   position: absolute;
-  top: 67px;
+  top: 70px;
   left: 110px;
-  background-color: rgb(245, 20, 20);
-  border-radius: 50%;
-  animation-name: slow;
-  animation-duration: 30s;
+  background-image: url(ghost1.svg);
+  animation-name: fast;
+  animation-duration: 6s;
   animation-timing-function: ease-in-out;
   animation-fill-mode: forwards;
-  z-index: 2;
 
 
 }
 
-.fast {
-  transform: scale(0.2);
+
+.ghost2 {
+  position: absolute;
+  transform: scale(0.5);
   width: 150px;
   height: 150px;
   position: absolute;
-  top: 67px;
+  top: 70px;
   left: 110px;
-  background-color: rgb(245, 20, 20);
-  border-radius: 50%;
-  animation-name: fast;
-  animation-duration: 10s;
+  background-image: url(ghost2.svg);
+  animation-name: slow;
+  animation-duration: 13s;
   animation-timing-function: ease-in-out;
   animation-fill-mode: forwards;
-  z-index: 2;
+
+
 
 }
 
 
 @keyframes slow {
-  0% {background-color: red}
-  25% {background-color: lime}
-  50% {background-color: green;}
-  75% {background-color: orangered;}
-  100%{background-color: lightpink;}
 
 
 0% {
@@ -610,15 +630,10 @@ body{
 
 
 @keyframes fast {
-   0% {background-color: aquamarine;}
-  25% {background-color: yellow;}
-  50% {background-color: orange;}
-  75% {background-color: hotpink;}
-  100%{background-color: rosybrown;}
 
   0% {
   left: 100px;
-  top: 67px;
+  top: 70px;
   }
 
   5% {
@@ -802,15 +817,21 @@ body{
     top: 520px;
   }
 
-  97% {
+  98% {
     top: 520px;
     left: 1060px;
   }
 
-  100% {
+  99% {
   left: 1060px;
   top: 620px;
 }
+
+100% {
+  top: 620px;
+  left: 1000px;
+}
+
 
 }
 
